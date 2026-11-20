@@ -1,0 +1,25 @@
+{
+  "name": "@tavardt/acsc-essential-eight-audit-toolkit",
+  "version": "1.0.0",
+  "description": "Australian Cyber Security Centre (ACSC) Essential Eight technical compliance verification scripts, audit checklist, and automated security controls.",
+  "main": "bin/essential8-audit.js",
+  "bin": {
+    "essential8-audit": "bin/essential8-audit.js"
+  },
+  "keywords": [
+    "acsc",
+    "essential-eight",
+    "cybersecurity",
+    "australia",
+    "security-audit",
+    "dmarc",
+    "tavardt"
+  ],
+  "author": "TAVARDT Australia <technical@tavardt.com> (https://ag.tavardt.com/au/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TAVARDT-Australia/acsc-essential-eight-audit-toolkit.git"
+  },
+  "homepage": "https://tools.tavardt.com/au/"
+}

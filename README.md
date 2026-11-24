@@ -75,6 +75,14 @@ Need professional assistance implementing Essential Eight Maturity Level 3, offe
 
 ***
 
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/au/
+* **Diagnostic Suite:** https://tools.tavardt.com/au/
+* **Technical Contact:** https://ag.tavardt.com/au/contact/
+
+***
+
 ## License
 
 Released under the MIT License. Copyright

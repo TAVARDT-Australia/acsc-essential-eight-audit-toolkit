@@ -1,4 +1,4 @@
-# ACSC Essential Eight Audit Toolkit | TAVARDT Australia
+# ACSC Essential Eight Audit Toolkit
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Verification Suite](https://img.shields.io/badge/TAVARDT-Australian%20Suite-5b3cf5.svg)](https://tools.tavardt.com/au/)
@@ -77,4 +77,4 @@ Need professional assistance implementing Essential Eight Maturity Level 3, offe
 
 ## License
 
-Released under the MIT License. Copyright (c) 2026 TAVARDT Australia.
+Released under the MIT License. Copyright (c) 2026 TAVARDT.

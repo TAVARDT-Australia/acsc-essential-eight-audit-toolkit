@@ -6,7 +6,7 @@
 
 A practical engineering checklist, perimeter diagnostic scripts, and maturity baseline validation framework aligned with the **Australian Cyber Security Centre (ACSC) Essential Eight** strategies.
 
-Engineered and maintained by the cyber defence practice at **TAVARDT Australia**.
+Engineered and maintained by the cyber defence practice at **TAVARDT**.
 
 ***
 
@@ -68,13 +68,17 @@ For full automated diagnostics, use the regional Australian verification suite:
 
 Need professional assistance implementing Essential Eight Maturity Level 3, offensive penetration testing, or emergency DFIR in Sydney, Melbourne, Brisbane, or Perth?
 
-* **Australian Practice:** [Portal Institucional](https://ag.tavardt.com/au/)
+* **Australian Practice:** [Institutional Portal](https://ag.tavardt.com/au/)
 * **Offensive Security & Pentesting:** [https://ag.tavardt.com/au/cybersecurity/penetration-testing/](https://ag.tavardt.com/au/cybersecurity/penetration-testing/)
 * **DDoS Defence & Edge Filtering:** [https://ag.tavardt.com/au/cybersecurity/ddos-attack/](https://ag.tavardt.com/au/cybersecurity/ddos-attack/)
-* **Direct Inquiries:** [Canal de Contato](https://ag.tavardt.com/au/contact/)
+* **Direct Inquiries:** [Contact Channel](https://ag.tavardt.com/au/contact/)
 
 ***
 
 ## License
 
-Released under the MIT License. Copyright (c) 2026 TAVARDT.
+Released under the MIT License. Copyright
+
+***
+
+© 2026 TAVARDT. All rights reserved.

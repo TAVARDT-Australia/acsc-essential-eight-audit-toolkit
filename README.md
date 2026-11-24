@@ -6,9 +6,9 @@
 
 A practical engineering checklist, perimeter diagnostic scripts, and maturity baseline validation framework aligned with the **Australian Cyber Security Centre (ACSC) Essential Eight** strategies.
 
-Engineered and maintained by the cyber defence practice at **[TAVARDT Australia](https://ag.tavardt.com/au/)**.
+Engineered and maintained by the cyber defence practice at **TAVARDT Australia**.
 
----
+***
 
 ## 1. Overview & The Essential Eight Strategies
 
@@ -23,18 +23,18 @@ The Australian Cyber Security Centre (ACSC) prioritises eight baseline mitigatio
 7. **Multi-Factor Authentication (MFA):** Mandatory hardware or app-based MFA for administrative and remote access.
 8. **Regular Backups:** Retain immutable, isolated off-site backups with regular restoration drills.
 
----
+***
 
 ## 2. Essential Eight Maturity Level Matrix
 
 | Strategy | Maturity Level 1 | Maturity Level 2 | Maturity Level 3 |
-|---|---|---|---|
+|-|-|-|-|
 | **Patch Applications** | Critical patches within 1 month | Critical patches within 48 hours | Automated scanning and patching |
 | **MFA Enforcement** | MFA for remote workers | MFA for all web portals & cloud apps | Phishing-resistant MFA (FIDO2) |
 | **Restricting Admin** | Re-evaluate privileges regularly | Separate admin accounts with no web | PAM solution with full session audit |
 | **Data Backups** | Backups tested annually | Daily backups, tested quarterly | Immutable, air-gapped backups |
 
----
+***
 
 ## 3. Perimeter Diagnostic CLI for Australian Domains
 
@@ -51,7 +51,7 @@ node bin/essential8-audit.js yourcompany.com.au
 * **Credential & Configuration Exposure:** Scanning for public `.env` files and exposed server backups.
 * **Security Headers Baseline:** CSP, X-Frame-Options, and Referrer-Policy enforcement.
 
----
+***
 
 ## 4. Online Diagnostic Tools (Australia)
 
@@ -60,20 +60,20 @@ For full automated diagnostics, use the regional Australian verification suite:
 * [DMARC & Email Spoofing Validator](https://tools.tavardt.com/au/dmarc-checker/): Prevents domain spoofing and Business Email Compromise.
 * [Security Headers Audit](https://tools.tavardt.com/au/security-headers-check/): Verifies browser protection baselines.
 * [Exposed Files & Credential Scanner](https://tools.tavardt.com/au/exposed-files-scanner/): Detects accidental leaks of environment configurations.
-* [Full Diagnostic Suite (Australia)](https://tools.tavardt.com/au/): 20 free technical tools.
+* Full Diagnostic Suite (Australia): 20 free technical tools.
 
----
+***
 
 ## 5. Enterprise Cyber Defence & Incident Response in Australia
 
 Need professional assistance implementing Essential Eight Maturity Level 3, offensive penetration testing, or emergency DFIR in Sydney, Melbourne, Brisbane, or Perth?
 
-* **Australian Practice:** [https://ag.tavardt.com/au/](https://ag.tavardt.com/au/)
+* **Australian Practice:** [Portal Institucional](https://ag.tavardt.com/au/)
 * **Offensive Security & Pentesting:** [https://ag.tavardt.com/au/cybersecurity/penetration-testing/](https://ag.tavardt.com/au/cybersecurity/penetration-testing/)
 * **DDoS Defence & Edge Filtering:** [https://ag.tavardt.com/au/cybersecurity/ddos-attack/](https://ag.tavardt.com/au/cybersecurity/ddos-attack/)
-* **Direct Inquiries:** [https://ag.tavardt.com/au/contact/](https://ag.tavardt.com/au/contact/)
+* **Direct Inquiries:** [Canal de Contato](https://ag.tavardt.com/au/contact/)
 
----
+***
 
 ## License
 

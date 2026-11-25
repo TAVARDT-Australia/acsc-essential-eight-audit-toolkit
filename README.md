@@ -104,7 +104,7 @@ The Node.js diagnostic CLI dispatches an HTTPS probe to standard secret paths su
 Security headers including Content-Security-Policy (CSP), X-Frame-Options, and X-Content-Type-Options prevent browser-side code execution, clickjacking, and MIME sniffing attacks. Enforcing these headers hardens client applications when rendering external web services.
 
 ### 5. Can this automated audit script be integrated into CI/CD pipelines?
-Yes, in/essential8-audit.js runs deterministically with standard exit codes in GitHub Actions, GitLab CI, or local deployment workflows. Automated testing ensures perimeter controls and header baselines do not regress during application releases.
+Yes, `bin/essential8-audit.js` runs deterministically with standard exit codes in GitHub Actions, GitLab CI, or local deployment workflows. Automated testing ensures perimeter controls and header baselines do not regress during application releases.
 
 ***
 

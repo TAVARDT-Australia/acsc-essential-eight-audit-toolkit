@@ -77,9 +77,9 @@ The Australian Cyber Security Centre (ACSC) prioritises eight baseline mitigatio
 This repository provides an automated Node.js validation tool designed to inspect external perimeter controls and anti-spoofing defences for Australian organisations (.com.au, .org.au, .edu.au):
 
 ### Running via Terminal:
-`ash
+```bash
 node bin/essential8-audit.js yourcompany.com.au
-`
+```
 
 ### What the Toolkit Evaluates:
 * **Transport Encryption & HSTS:** Strict transport security enforcement.

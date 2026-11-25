@@ -1,13 +1,12 @@
 # ACSC Essential Eight Audit Toolkit
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Verification Suite](https://img.shields.io/badge/TAVARDT-Australian%20Suite-5b3cf5.svg)](https://tools.tavardt.com/au/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Node.js-yellow.svg)](https://nodejs.org/)
 [![Governance](https://img.shields.io/badge/Compliance-ACSC%20Essential%20Eight-00C853.svg)](https://ag.tavardt.com/au/cybersecurity/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A practical engineering checklist, perimeter diagnostic scripts, and maturity baseline validation framework aligned with the **Australian Cyber Security Centre (ACSC) Essential Eight** strategies.
 
-Engineered and maintained by the cyber defence practice at **TAVARDT**.
 
 ***
 
@@ -116,7 +115,6 @@ For full automated diagnostics, use the regional Australian verification suite:
 * [DMARC & Email Spoofing Validator](https://tools.tavardt.com/au/dmarc-checker/): Prevents domain spoofing and Business Email Compromise.
 * [Security Headers Audit](https://tools.tavardt.com/au/security-headers-check/): Verifies browser protection baselines.
 * [Exposed Files & Credential Scanner](https://tools.tavardt.com/au/exposed-files-scanner/): Detects accidental leaks of environment configurations.
-* Full Diagnostic Suite (Australia): 20 free technical tools.
 
 ***
 
@@ -129,7 +127,7 @@ Need professional assistance implementing Essential Eight Maturity Level 3, offe
 
 ***
 
-## Useful Links
+## 7. Useful Links
 
 * **Corporate Portal:** https://ag.tavardt.com/au/
 * **Diagnostic Suite:** https://tools.tavardt.com/au/

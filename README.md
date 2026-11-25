@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Verification Suite](https://img.shields.io/badge/TAVARDT-Australian%20Suite-5b3cf5.svg)](https://tools.tavardt.com/au/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Node.js-yellow.svg)](https://nodejs.org/)
 [![Governance](https://img.shields.io/badge/Compliance-ACSC%20Essential%20Eight-00C853.svg)](https://ag.tavardt.com/au/cybersecurity/)
 
 A practical engineering checklist, perimeter diagnostic scripts, and maturity baseline validation framework aligned with the **Australian Cyber Security Centre (ACSC) Essential Eight** strategies.
@@ -68,10 +69,8 @@ For full automated diagnostics, use the regional Australian verification suite:
 
 Need professional assistance implementing Essential Eight Maturity Level 3, offensive penetration testing, or emergency DFIR in Sydney, Melbourne, Brisbane, or Perth?
 
-* **Australian Practice:** [Institutional Portal](https://ag.tavardt.com/au/)
 * **Offensive Security & Pentesting:** [https://ag.tavardt.com/au/cybersecurity/penetration-testing/](https://ag.tavardt.com/au/cybersecurity/penetration-testing/)
 * **DDoS Defence & Edge Filtering:** [https://ag.tavardt.com/au/cybersecurity/ddos-attack/](https://ag.tavardt.com/au/cybersecurity/ddos-attack/)
-* **Direct Inquiries:** [Contact Channel](https://ag.tavardt.com/au/contact/)
 
 ***
 
@@ -85,7 +84,7 @@ Need professional assistance implementing Essential Eight Maturity Level 3, offe
 
 ## License
 
-Released under the MIT License. Copyright
+Released under the MIT License.
 
 ***
 
